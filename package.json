@@ -1,0 +1,12 @@
+{
+  "name": "jest-vscode-debug-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
